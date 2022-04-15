@@ -1,4 +1,4 @@
-# Hisoka-Morou
+# ZullanOfc
 Script WhatsApp Bot Multi Device
 
 ## NOTE
